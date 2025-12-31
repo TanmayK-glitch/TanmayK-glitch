@@ -1,8 +1,5 @@
 # About Me
-🔭 I’m currently working on putting together fun projects combining frontend and backend code  
-👯 I’m looking to collaborate on Open-source React or Python projects, or small web development projects that combine frontend and backend.  
-🌱 I’m currently learning React for frontend development and Python for backend/data processing.  
-💬 Ask me about Web development basics (HTML, CSS, JS), C programming, or how to get started with React as a beginner.
+I'm a 19-year-old computer science student and full-stack developer passionate about building real-world solutions. I love exploring the complete development cycle—from front-end design to back-end architecture. Currently, I'm diving deep into artificial intelligence and finding ways to integrate it into practical applications. For me, the best way to learn is by building, and I'm always working on projects that challenge me and solve genuine problems.
 
 ---
 
